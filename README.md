@@ -5,10 +5,6 @@ A modern and professional **personal portfolio website** designed for **develope
 This repository contains **ONLY the live preview** of the website.  
 The **complete source code is available for purchase**.
 
-🔍 Live Preview
-
-(Deployed using GitHub Pages)
-
 📸 Website Preview
 <img width="1920" height="4487" alt="screencapture-file-C-Users-abc-Downloads-my-portfolio-main-my-portfolio-main-index-html-2026-01-17-17_42_03" src="https://github.com/user-attachments/assets/2b8e9d18-38d2-4856-a96a-323d98d474ef" />
 
